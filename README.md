@@ -72,7 +72,8 @@ Built an NLP system to detect 10 languages with 93% accuracy and provide seamles
 - 📧 **Email**: [vishalvoweldas67@gmail.com](mailto:vishalvoweldas67@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/voweldas-vishal](https://linkedin.com/in/voweldas-vishal)
 - 💻 **GitHub**: [github.com/vishalvoweldas](https://github.com/vishalvoweldas)
-
+- **Portfolio**:
+[vishalvoweldas.github.io/My-Portfolio-Website](https://vishalvoweldas.github.io/My-Portfolio-Website)
 
 ---
 
