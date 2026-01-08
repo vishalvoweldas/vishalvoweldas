@@ -2,7 +2,7 @@
 
 **Aspiring Digital Specialist Engineer | AI & Backend Developer**
 
-I'm a final-year B.Tech student in **Artificial Intelligence and Data Science** with a strong foundation in backend development, machine learning, and scalable software engineering. I build intelligent, data-driven systems using modern technologies like Java, Spring Boot, Python, and LLMs. Passionate about creating impactful solutions that bridge AI innovation with real-world applications.
+I'm a B.Tech graduate in **Artificial Intelligence and Data Science** with a strong foundation in backend development, machine learning, and scalable software engineering. I build intelligent, data-driven systems using modern technologies like Java, Spring Boot, Python, and LLMs. Passionate about creating impactful solutions that bridge AI innovation with real-world applications.
 
 ---
 
